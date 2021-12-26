@@ -3,8 +3,10 @@ import imageio
 import scipy.ndimage
 import cv2
 
+#you can add any image
 
 my_img = "my_photo.jpg"
+
 def rgb_photo(rgb):
     return np.dot(rgb[...,:3],[0.2989,0.5870,0.1140])
 
