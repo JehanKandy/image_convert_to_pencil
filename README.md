@@ -5,5 +5,5 @@ image convert to pencil sketch using python
 1.numpy<br>
 2.imageio<br>
 3.scipy<br>
-4.cv2 ----> <br>
+4.cv2 ----> opencv module<br>
 
