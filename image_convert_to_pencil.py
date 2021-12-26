@@ -4,7 +4,10 @@ import scipy.ndimage
 import cv2
 
 #you can add any image
-
+#------important----------
+    #image and code file should in same folder
+    #if image on in same folder ou have to give the path
+#-------------------------
 my_img = "my_photo.jpg"
 
 def rgb_photo(rgb):
